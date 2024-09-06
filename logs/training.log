@@ -1,0 +1,56 @@
+2024-07-30T12:00:30.203257+0530 - __main__ - INFO - Data transformed sucessfully.
+2024-07-30T12:00:30.562476+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-30T12:25:52.866475+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:25:52.967322+0530 - __main__ - INFO - Data transformed sucessfully.
+2024-07-30T12:25:53.234642+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-30T12:25:57.972160+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:26:02.023215+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:26:06.882055+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:26:11.972340+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:26:17.842460+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:26:35.582178+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:26:35.671583+0530 - __main__ - INFO - Data transformed sucessfully.
+2024-07-30T12:26:35.896409+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-30T12:26:40.136497+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:26:44.002496+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:26:47.905557+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:26:52.813302+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:26:59.343409+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:27:06.178727+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:27:10.843284+0530 - engine - INFO - Trained the model successfully.
+2024-07-30T12:27:38.123648+0530 - __main__ - INFO - Data transformed sucessfully.
+2024-07-30T12:27:38.332441+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-30T13:04:44.590727+0530 - __main__ - INFO - Model saved to models folder.
+2024-07-31T19:42:45.183365+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:42:45.356898+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:43:43.671728+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:43:43.825196+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:44:05.460902+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:44:05.635718+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:44:21.529321+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:44:21.694667+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:47:27.730644+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:47:27.901135+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:53:31.962208+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:53:32.172429+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:59:25.399474+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T19:59:25.730849+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T20:01:53.170884+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T20:01:53.637053+0530 - __main__ - INFO - Data transformed sucessfully.
+2024-07-31T20:07:08.172807+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T20:07:08.619687+0530 - __main__ - INFO - Data transformed successfully.
+2024-07-31T20:07:08.929876+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T20:07:14.631958+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T20:07:20.942969+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T20:07:27.340177+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T20:07:35.888367+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T20:07:43.521662+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T20:07:49.576120+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T20:07:55.709888+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T20:08:01.929538+0530 - model - INFO - Model initialized with frozen ResNet18 backbone and new fully connected layers.
+2024-07-31T20:09:02.465553+0530 - __main__ - INFO - Data transformed successfully.
+2024-07-31T20:44:46.549935+0530 - __main__ - INFO - Model trained successfully.
+2024-07-31T20:44:46.581421+0530 - __main__ - INFO - Model saved to models folder.
+2024-08-02T13:54:54.833356+0530 - __main__ - INFO - Data transformed successfully.
+2024-08-02T15:17:03.889086+0530 - __main__ - INFO - Model trained successfully.
+2024-08-02T15:17:03.899105+0530 - __main__ - INFO - Model saved to models folder.
